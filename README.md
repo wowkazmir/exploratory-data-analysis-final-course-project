@@ -21,7 +21,7 @@ data that we use for this assignment are for 1999, 2002, 2005, and
 
 - Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?
 
-  (./plot1.png)
+  !(./plot1.png)
 
 - Have total emissions from PM2.5 decreased in the Baltimore City, Maryland
   from 1999 to 2008?
